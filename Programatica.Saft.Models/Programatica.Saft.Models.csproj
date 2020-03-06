@@ -3,13 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>ruialexrib</Authors>
     <Company>Programatica Software</Company>
     <Description>Models for SAFT-PT file</Description>
     <Copyright>Copyright ©  Programatica Software 2020</Copyright>
     <PackageProjectUrl>https://github.com/ruialexrib/Programatica.Saft.Models</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ruialexrib/Programatica.Saft.Models</RepositoryUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
