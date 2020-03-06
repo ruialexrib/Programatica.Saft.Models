@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programatica.Saft.Models", "Programatica.Saft.Models\Programatica.Saft.Models.csproj", "{3F9B630A-157D-4364-9C3C-816DA327787F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9B630A-157D-4364-9C3C-816DA327787F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9B630A-157D-4364-9C3C-816DA327787F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9B630A-157D-4364-9C3C-816DA327787F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9B630A-157D-4364-9C3C-816DA327787F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926D62F5-DEF2-45C9-8A51-CB18D9D95C71}
+	EndGlobalSection
+EndGlobal

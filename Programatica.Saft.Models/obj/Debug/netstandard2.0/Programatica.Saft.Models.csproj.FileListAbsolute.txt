@@ -1,0 +1,9 @@
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\obj\Debug\netstandard2.0\Programatica.Saft.Models.csproj.CoreCompileInputs.cache
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\obj\Debug\netstandard2.0\Programatica.Saft.Models.AssemblyInfoInputs.cache
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\obj\Debug\netstandard2.0\Programatica.Saft.Models.AssemblyInfo.cs
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\bin\Debug\netstandard2.0\Programatica.Saft.Models.deps.json
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\bin\Debug\netstandard2.0\Programatica.Saft.Models.dll
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\bin\Debug\netstandard2.0\Programatica.Saft.Models.pdb
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\obj\Debug\netstandard2.0\Programatica.Saft.Models.dll
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\obj\Debug\netstandard2.0\Programatica.Saft.Models.pdb
+C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\obj\Debug\netstandard2.0\Programatica.Saft.Models.csprojAssemblyReference.cache

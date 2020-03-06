@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Programatica.Saft.Models</id>
+    <version>1.0.0</version>
+    <authors>ruialexrib</authors>
+    <owners>ruialexrib</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/ruialexrib/Programatica.Saft.Models</projectUrl>
+    <description>Models for SAFT-PT file</description>
+    <copyright>Copyright ©  Programatica Software 2020</copyright>
+    <repository url="https://github.com/ruialexrib/Programatica.Saft.Models" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ruiribeiro\Documents\GitHub\Programatica.Saft.Models\Programatica.Saft.Models\bin\Debug\netstandard2.0\Programatica.Saft.Models.dll" target="lib\netstandard2.0\Programatica.Saft.Models.dll" />
+  </files>
+</package>
