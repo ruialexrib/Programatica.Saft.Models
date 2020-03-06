@@ -14,7 +14,8 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programatica Software")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright ©  Programatica Software 2020")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Models for SAFT-PT file")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Object Model for SAFT-PT file (Standard Audit File for Tax Purposes - Portugal Ve" +
+    "rsion)")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programatica.Saft.Models")]

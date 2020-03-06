@@ -6,7 +6,7 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>ruialexrib</Authors>
     <Company>Programatica Software</Company>
-    <Description>Models for SAFT-PT file</Description>
+    <Description>Object Model for SAFT-PT file (Standard Audit File for Tax Purposes - Portugal Version)</Description>
     <Copyright>Copyright ©  Programatica Software 2020</Copyright>
     <PackageProjectUrl>https://github.com/ruialexrib/Programatica.Saft.Models</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ruialexrib/Programatica.Saft.Models</RepositoryUrl>
