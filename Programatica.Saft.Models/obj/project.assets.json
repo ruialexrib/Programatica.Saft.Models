@@ -43,10 +43,11 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "548M6mnBSJWxsIlkQHfbzoYxpiYFXZZSL00p4GHYv8PkiqFBnnT68mW5mGEsA/ch9fDO9GkPgkFQpWiXZN7mAQ==",
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -181,13 +182,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.Saft.Models\\Programatica.Saft.Models\\Programatica.Saft.Models.csproj",
+      "projectUniqueName": "C:\\Users\\ruiribeiro\\Source\\Repos\\ruialexrib\\Programatica.Saft.Models\\Programatica.Saft.Models\\Programatica.Saft.Models.csproj",
       "projectName": "Programatica.Saft.Models",
-      "projectPath": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.Saft.Models\\Programatica.Saft.Models\\Programatica.Saft.Models.csproj",
+      "projectPath": "C:\\Users\\ruiribeiro\\Source\\Repos\\ruialexrib\\Programatica.Saft.Models\\Programatica.Saft.Models\\Programatica.Saft.Models.csproj",
       "packagesPath": "C:\\Users\\ruiribeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.Saft.Models\\Programatica.Saft.Models\\obj\\",
+      "outputPath": "C:\\Users\\ruiribeiro\\Source\\Repos\\ruialexrib\\Programatica.Saft.Models\\Programatica.Saft.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -201,7 +202,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\ruiribeiro\\AppData\\Local\\Esri\\NuGet": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -226,10 +226,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

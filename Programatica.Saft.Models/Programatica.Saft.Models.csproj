@@ -11,6 +11,7 @@
     <PackageProjectUrl>https://github.com/ruialexrib/Programatica.Saft.Models</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ruialexrib/Programatica.Saft.Models</RepositoryUrl>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
