@@ -3,3 +3,8 @@ Object Model for SAFT-PT file (Standard Audit File for Tax Purposes - Portugal V
 
 ## Version
 1.4
+
+## Nuget
+```
+Install-Package Programatica.Saft.Models
+```
