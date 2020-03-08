@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 namespace Programatica.Saft.Models
 {
     [XmlRoot(ElementName = "MovementOfGoods", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
-    public class MovementOfGoods
+    public class MovementOfGoods : IMovementOfGoods
     {
         [XmlElement(ElementName = "NumberOfMovementLines", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
         public string NumberOfMovementLines { get; set; }

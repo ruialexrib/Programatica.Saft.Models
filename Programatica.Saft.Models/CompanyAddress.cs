@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 namespace Programatica.Saft.Models
 {
     [XmlRoot(ElementName = "CompanyAddress", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
-    public class CompanyAddress
+    public class CompanyAddress : ICompanyAddress
     {
         [XmlElement(ElementName = "AddressDetail", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
         public string AddressDetail { get; set; }

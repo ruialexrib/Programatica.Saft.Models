@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 namespace Programatica.Saft.Models
 {
     [XmlRoot(ElementName = "OrderReferences", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
-    public class OrderReferences
+    public class OrderReferences : IOrderReferences
     {
         [XmlElement(ElementName = "OriginatingON", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
         public string OriginatingON { get; set; }

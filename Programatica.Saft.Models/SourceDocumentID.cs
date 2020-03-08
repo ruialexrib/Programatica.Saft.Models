@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 namespace Programatica.Saft.Models
 {
     [XmlRoot(ElementName = "SourceDocumentID", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
-    public class SourceDocumentID
+    public class SourceDocumentID : ISourceDocumentID
     {
         [XmlElement(ElementName = "OriginatingON", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
         public string OriginatingON { get; set; }

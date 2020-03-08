@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 namespace Programatica.Saft.Models
 {
     [XmlRoot(ElementName = "Header", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
-    public class Header
+    public class Header : IHeader
     {
         [XmlElement(ElementName = "AuditFileVersion", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
         public string AuditFileVersion { get; set; }

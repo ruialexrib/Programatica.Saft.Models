@@ -10,8 +10,9 @@
     <Copyright>Copyright ©  Programatica Software 2020</Copyright>
     <PackageProjectUrl>https://github.com/ruialexrib/Programatica.Saft.Models</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ruialexrib/Programatica.Saft.Models</RepositoryUrl>
-    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
-    <Version>1.0.1</Version>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <Version>1.0.2</Version>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>

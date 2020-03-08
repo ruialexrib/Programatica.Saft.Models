@@ -7,7 +7,7 @@ using System.Xml.Serialization;
 namespace Programatica.Saft.Models
 {
     [XmlRoot(ElementName = "WorkDocument", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
-    public class WorkDocument
+    public class WorkDocument : IWorkDocument
     {
         [XmlElement(ElementName = "DocumentNumber", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
         public string DocumentNumber { get; set; }

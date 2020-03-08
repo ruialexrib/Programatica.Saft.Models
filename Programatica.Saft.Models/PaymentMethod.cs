@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 namespace Programatica.Saft.Models
 {
     [XmlRoot(ElementName = "PaymentMethod", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
-    public class PaymentMethod
+    public class PaymentMethod : IPaymentMethod
     {
         [XmlElement(ElementName = "PaymentMechanism", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
         public string PaymentMechanism { get; set; }

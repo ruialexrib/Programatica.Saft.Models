@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 namespace Programatica.Saft.Models
 {
     [XmlRoot(ElementName = "SpecialRegimes", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
-    public class SpecialRegimes
+    public class SpecialRegimes : ISpecialRegimes
     {
         [XmlElement(ElementName = "SelfBillingIndicator", Namespace = "urn:OECD:StandardAuditFile-Tax:PT_1.04_01")]
         public string SelfBillingIndicator { get; set; }
