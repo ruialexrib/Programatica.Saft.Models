@@ -182,13 +182,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruiribeiro\\Source\\Repos\\ruialexrib\\Programatica.Saft.Models\\Programatica.Saft.Models\\Programatica.Saft.Models.csproj",
+      "projectUniqueName": "C:\\Users\\ruiribeiro\\Github\\Programatica.Saft.Models\\Programatica.Saft.Models\\Programatica.Saft.Models.csproj",
       "projectName": "Programatica.Saft.Models",
-      "projectPath": "C:\\Users\\ruiribeiro\\Source\\Repos\\ruialexrib\\Programatica.Saft.Models\\Programatica.Saft.Models\\Programatica.Saft.Models.csproj",
+      "projectPath": "C:\\Users\\ruiribeiro\\Github\\Programatica.Saft.Models\\Programatica.Saft.Models\\Programatica.Saft.Models.csproj",
       "packagesPath": "C:\\Users\\ruiribeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruiribeiro\\Source\\Repos\\ruialexrib\\Programatica.Saft.Models\\Programatica.Saft.Models\\obj\\",
+      "outputPath": "C:\\Users\\ruiribeiro\\Github\\Programatica.Saft.Models\\Programatica.Saft.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -235,7 +235,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

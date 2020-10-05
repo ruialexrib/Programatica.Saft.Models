@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Programatica.Saft.Models</id>
+    <version>1.0.3</version>
+    <authors>ruialexrib</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/ruialexrib/Programatica.Saft.Models</projectUrl>
+    <description>Object Model for SAFT-PT file (Standard Audit File for Tax Purposes - Portugal Version)</description>
+    <copyright>Copyright ©  Programatica Software 2020</copyright>
+    <repository url="https://github.com/ruialexrib/Programatica.Saft.Models" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ruiribeiro\Github\Programatica.Saft.Models\Programatica.Saft.Models\bin\Release\netstandard2.0\Programatica.Saft.Models.dll" target="lib\netstandard2.0\Programatica.Saft.Models.dll" />
+  </files>
+</package>

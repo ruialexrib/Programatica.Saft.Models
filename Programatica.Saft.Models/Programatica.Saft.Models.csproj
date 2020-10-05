@@ -11,8 +11,11 @@
     <PackageProjectUrl>https://github.com/ruialexrib/Programatica.Saft.Models</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ruialexrib/Programatica.Saft.Models</RepositoryUrl>
     <PackageLicenseUrl></PackageLicenseUrl>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <AssemblyVersion>1.0.3.0</AssemblyVersion>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key_file.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
 </Project>
