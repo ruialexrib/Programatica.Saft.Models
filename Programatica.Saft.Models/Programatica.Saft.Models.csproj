@@ -18,4 +18,8 @@
     <AssemblyOriginatorKeyFile>key_file.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="key_file.pfx" />
+  </ItemGroup>
+
 </Project>
